@@ -6,13 +6,13 @@
     "url": "https://github.com/rrrene/inchjs"
   },
   "dependencies": {
-    "glob": "4.3.5",
+    "glob": "^7.1.4",
     "js-yaml": "^3.3.1",
     "jsdoc": "3.x",
     "shelljs": "0.3.0"
   },
   "devDependencies": {
-    "mocha": "~2.1.0"
+    "mocha": "^6.1.4"
   },
   "optionalDependencies": {},
   "engines": {
